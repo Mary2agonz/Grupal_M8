@@ -6,8 +6,7 @@ This app uses rails 7.0.4 and Ruby 3.1.2 versions.
 
 you can see a live preview [here](https://awake-grupal.herokuapp.com/).
 
-For a further look of the code check the [GitHub repository](https://github.com/MauricioTRP/Grupal_rails)
-
+For a further look of the code check the [GitHub repository](https://github.com/Mary2agonz/Grupal_M8)
 in order to run it in your local you have to run:
 
 ```
